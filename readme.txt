@@ -5,8 +5,7 @@ Red Rail Ticket Booking System
 by
 
 BT22ECE108 HIMANSHU JOSHI
-BT22ECE121 KAMAL CHANDRA
-BT22ECE126 PRATEEK VASHISHTH
+
 
 ____________________*****************___________________________
 
